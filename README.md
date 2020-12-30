@@ -1,4 +1,6 @@
 # semana-5-53
+## Proyecto Frontend sitio web de inventarios
+Módulo frontend de gestión y una landing page (usando Vuetify) donde se presenta el manejo de inventarios que se gestiona desde el backend.
 
 ## Project setup
 ```
